@@ -6,6 +6,7 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
     '@nuxt/image-edge',
     '@vueuse/nuxt',
+    '@nuxtjs/supabase',
   ],
   nitro: {
     preset: 'node-server',
